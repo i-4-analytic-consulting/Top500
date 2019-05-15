@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1555603062841.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "686448714",
+    "id" : "473B00DF",
+    "lastKnownWriteTime" : 1557264742,
+    "last_content_update" : 1557264742251,
+    "path" : "F:/R Projects/Top500/Top500Import.R",
+    "project_path" : "Top500Import.R",
+    "properties" : {
+        "cursorPosition" : "4,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

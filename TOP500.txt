@@ -1,0 +1,394 @@
+Site	Manufacturer	Year	Processor	Accelerator/Co-Processor	Cores per Socket	Total Cores	Accelerator/Co-Processor Cores
+DOE/SC/Pacific Northwest National Laboratory	Atipa Technology	2013	Xeon E5-2670 8C 2.6GHz	Intel Xeon Phi 5110P	8	194616	171720
+Meteo France	"Bull, Atos Group"	2013	Intel Xeon E5-2697v2 12C 2.7GHz	None	12	24192	0
+ROMEO HPC Center - Champagne-Ardenne	"Bull, Atos Group"	2013	Intel Xeon E5-2650v2  8C 2.6GHz	NVIDIA Tesla K20x	8	5720	3640
+Indiana University	Cray Inc.	2013	Opteron 6276 16C 2.3GHz	NVIDIA Tesla K20	16	31288	8788
+Deutscher Wetterdienst	Cray Inc.	2013	Intel Xeon E5-2670v2  10C 2.5GHz	None	10	17648	0
+"Center for Computational Sciences, University of Tsukuba"	Cray Inc.	2013	Intel Xeon E5-2680v2  10C 2.8GHz	NVIDIA Tesla K20x	10	4864	3584
+Cambridge University	Dell	2013	Intel Xeon E5-2630v2 6C 2.6GHz	NVIDIA Tesla K20	6	4864	3328
+Instituto Tecnológico y de Energías Renovables S.A.	Fujitsu	2013	Xeon E5-2670 8C 2.6GHz	None	8	16384	0
+Purdue University	Hewlett-Packard	2013	Xeon E5-2670 8C 2.6GHz	Intel Xeon Phi 5110P	8	77520	68400
+Clemson University	Hewlett-Packard	2013	Xeon E5-2665 8C 2.4GHz	NVIDIA Tesla K20m	8	16996	9380
+University of Southern California	Hewlett-Packard	2013	Xeon E5-2665 8C 2.4GHz	NVIDIA Tesla K20m	8	11722	7356
+Service Provider	Hewlett-Packard	2013	Xeon E5-2670 8C 2.6GHz	None	8	42848	0
+Energy Company (D)	Hewlett-Packard	2013	Intel Xeon E5-2680v2  10C 2.8GHz	None	10	50400	0
+Software Company (M)	Hewlett-Packard	2013	Xeon E5-2450L 8C 1.8GHz	None	8	75664	0
+IT Service Provider	Hewlett-Packard	2013	Xeon E5-2670 8C 2.6GHz	NVIDIA 2075	8	43264	10976
+Service Provider	Hewlett-Packard	2013	Xeon E5-2640 6C 2.5GHz	None	6	39228	0
+Software Company (M)	Hewlett-Packard	2013	Xeon E5-2450L 8C 1.8GHz	None	8	62848	0
+Software Company (M)	Hewlett-Packard	2013	Xeon E5-2450L 8C 1.8GHz	None	8	62416	0
+Indian Institute of Technology - Kanpur	Hewlett-Packard	2013	Intel Xeon E5-2670v2  10C 2.5GHz	None	10	17980	0
+Software Company (M)	Hewlett-Packard	2013	Xeon E5-2450L 8C 1.8GHz	None	8	57648	0
+IT Services Provider 	Hewlett-Packard	2013	Xeon E5-2630 6C 2.3GHz	None	6	36792	0
+IT Service Provider (D)	Hewlett-Packard	2013	Xeon E5-2640 6C 2.5GHz	None	6	32604	0
+IT Service Provider (B)	Hewlett-Packard	2013	Xeon E5-2640 6C 2.5GHz	None	6	32436	0
+IT Service Provider	Hewlett-Packard	2013	Xeon E5-2640 6C 2.5GHz	None	6	31524	0
+Banking (M)	Hewlett-Packard	2013	Xeon E5-2670 8C 2.6GHz	None	8	29696	0
+IT Services Provider 	Hewlett-Packard	2013	Xeon E5-2620 6C 2GHz	None	6	39264	0
+IT Service Provider (D)	Hewlett-Packard	2013	Xeon E5-2640 6C 2.5GHz	None	6	30000	0
+Energy Company	Hewlett-Packard	2013	Xeon E5-2670 8C 2.6GHz	None	8	18688	0
+Logistic Services (E)	Hewlett-Packard	2013	Xeon E5-2640 6C 2.5GHz	None	6	29580	0
+Geoscience (P)	Hewlett-Packard	2013	Xeon E5-2670 8C 2.6GHz	None	8	18176	0
+IT Service Provider (B)	Hewlett-Packard	2013	Xeon E5-2670 8C 2.6GHz	None	8	19712	0
+Geoscience (P)	Hewlett-Packard	2013	Xeon E5-2670 8C 2.6GHz	None	8	17920	0
+Service Provider	Hewlett-Packard	2013	Xeon E5-2670 8C 2.6GHz	None	8	19456	0
+Automative Company	Hewlett-Packard	2013	Xeon E5-2670 8C 2.6GHz	None	8	15360	0
+Cerner Corp.	Hewlett-Packard	2013	Xeon E5-2650 8C 2GHz	None	8	25856	0
+IT Service Provider (D)	Hewlett-Packard	2013	Xeon E5-2670 8C 2.6GHz	None	8	18440	0
+IT Service Provider (C)	Hewlett-Packard	2013	Xeon E5-2670 8C 2.6GHz	None	8	18432	0
+IT Service Provider (B)	Hewlett-Packard	2013	Xeon E5-2630 6C 2.3GHz	None	6	29064	0
+Web Content Provider	Hewlett-Packard	2013	Xeon E5-2650 8C 2GHz	None	8	33920	0
+IT Service Provider (D)	Hewlett-Packard	2013	Xeon E5-2670 8C 2.6GHz	None	8	16872	0
+IT Provider (P)	Hewlett-Packard	2013	Xeon E5-2670 8C 2.6GHz	None	8	14192	0
+IT Provider (P)	Hewlett-Packard	2013	Xeon E5-2670 8C 2.6GHz	None	8	14192	0
+Logistic Services	Hewlett-Packard	2013	Xeon E5-2630 6C 2.3GHz	None	6	27156	0
+Software Company (M)	Hewlett-Packard	2013	Xeon E5-2450 8C 2.1GHz	None	8	29920	0
+Web-Service Provider	Hewlett-Packard	2013	Xeon E5-2630 6C 2.3GHz	None	6	25920	0
+Manufacturing Company	Hewlett-Packard	2013	Xeon E5-2670 8C 2.6GHz	None	8	13264	0
+Electrionic Industry	Hewlett-Packard	2013	Intel Xeon E5-2658v2 10C 2.4GHz	None	10	20272	0
+Software Company (M)	Hewlett-Packard	2013	Xeon E5-2430L 8C 2GHz	None	8	29556	0
+Telecommunication Company	Hewlett-Packard	2013	Xeon E5-2630 6C 2.3GHz	None	6	25056	0
+Software Company (M)	Hewlett-Packard	2013	Xeon E5-2430L 8C 2GHz	None	8	29172	0
+Service Provider	Hewlett-Packard	2013	Xeon E5-2450 8C 2.1GHz	None	8	27392	0
+IT Services Provider (B)	Hewlett-Packard	2013	Xeon E5-2650 8C 2GHz	None	8	28672	0
+Service Provider	Hewlett-Packard	2013	Xeon E5-2680 8C 2.7GHz	None	8	13872	0
+Service Provider	Hewlett-Packard	2013	Xeon E5-2630 6C 2.3GHz	None	6	22632	0
+"Research Institute for Information Technology, Kyushu University"	Hitachi/Fujitsu	2013	Xeon E5-2680 8C 2.7GHz	"NVIDIA K20/K20x, Xeon Phi 5110P"	8	222072	157128
+IBM Development Engineering	IBM	2013	POWER7 8C 3.84GHz	None	8	62944	0
+Indian Institute of Tropical Meteorology	IBM	2013	Xeon E5-2670 8C 2.6GHz	None	8	38016	0
+Swiss National Supercomputing Centre (CSCS)	IBM	2013	Power BQC 16C 1.6GHz	None	16	65536	0
+Exploration & Production - Eni S.p.A.	IBM	2013	Xeon E5-2670 8C 2.6GHz	None	8	24000	0
+EDF R&D	IBM	2013	Intel Xeon E5-2697v2 12C 2.7GHz	None	12	18144	0
+National Center for Medium Range Weather Forecast	IBM	2013	Xeon E5-2670 8C 2.6GHz	None	8	16832	0
+University of Southampton	IBM	2013	Xeon E5-2670 8C 2.6GHz	None	8	12000	0
+Maui High-Performance Computing Center (MHPCC)	IBM	2013	Xeon E5-2670 8C 2.6GHz	None	8	12096	0
+Saudi Aramco	IBM/Lenovo	2013	Xeon E5-2670 8C 2.6GHz	None	8	24336	0
+Geoscience	IBM/Lenovo	2013	Xeon E5-2670 8C 2.6GHz	None	8	12096	0
+Technische Universitaet Darmstadt	IBM/Lenovo	2013	Xeon E5-2670 8C 2.6GHz	None	8	12288	0
+Max-Planck-Gesellschaft MPI/IPP	Lenovo/IBM	2013	Intel Xeon E5-2680v2  10C 2.8GHz	None	10	65320	0
+Max-Planck-Gesellschaft MPI/IPP	Lenovo/IBM	2013	Intel Xeon E5-2680v2  10C 2.8GHz	NVIDIA Tesla K20x	10	15840	9240
+"GSIC Center, Tokyo Institute of Technology"	NEC	2013	Intel Xeon E5-2620v2 6C 2.1GHz	NVIDIA Tesla K80	6	4872	4368
+"GSIC Center, Tokyo Institute of Technology"	NEC/HP	2013	Xeon X5670 6C 2.93GHz	NVIDIA Tesla K20x	6	76032	59136
+Center for Development of Advanced Computing (C-DAC)	Netweb Technologies	2013	Xeon E5-2670 8C 2.6GHz	Intel Xeon Phi 5110P	8	30056	26520
+National Super Computer Center in Guangzhou	NUDT	2013	Intel Xeon E5-2692v2 12C 2.2GHz	Intel Xeon Phi 31S1P	12	3120000	2736000
+Amazon Web Services	Self-made	2013	Intel Xeon E5-2680v2  10C 2.8GHz	None	10	26496	0
+Total Exploration Production	SGI	2013	Xeon E5-2670 8C 2.6GHz	None	8	110400	0
+Air Force Research Laboratory	SGI	2013	Xeon E5-2670 8C 2.6GHz	None	8	18432	0
+TOTAL	SGI	2013	Xeon E5-2670 8C 2.6GHz	None	8	13824	0
+T-Systems	SGI	2013	Intel Xeon E5-2695v2 12C 2.4GHz	None	12	13440	0
+Internet Company B	Sugon	2013	Xeon E5-2620 6C 2GHz	None	6	38400	0
+Internet Company	Sugon	2013	Xeon E5-2407 4C 2.2GHz	None	4	28800	0
+GSI Helmholtz Center	"AMD, ASUS, FIAS, GSI"	2014	Intel Xeon E5-2690v2 10C 3GHz	AMD FirePro S9150	10	10976	9856
+DOE/Knolls Atomic Power Laboratory	Atipa Technology	2014	Xeon E5-2680v3 12C 2.5GHz	None	12	12768	0
+Grand Equipement National de Calcul Intensif - Centre Informatique National de l'Enseignement Suprieur (GENCI-CINES)	"Bull, Atos Group"	2014	Xeon E5-2690v3 12C 2.6GHz	None	12	50544	0
+Meteo France	"Bull, Atos Group"	2014	Intel Xeon E5-2697v2 12C 2.7GHz	None	12	23760	0
+CALMIP / University of Toulouse	"Bull, Atos Group"	2014	Intel Xeon E5-2680v2  10C 2.8GHz	None	10	12240	0
+"International Fusion Energy Research Centre (IFERC), EU(F4E) - Japan Broader Approach collaboration"	"Bull, Atos Group"	2014	Xeon E5-2450 8C 2.1GHz	Intel Xeon Phi 5110P	8	24480	21600
+Vienna Scientific Cluster	ClusterVision	2014	Intel Xeon E5-2650v2  8C 2.6GHz	None	8	32768	0
+Government	Cray Inc.	2014	Intel Xeon E5-2660v2 10C 2.2GHz	NVIDIA Tesla K40	10	72800	62400
+Government	Cray Inc.	2014	Intel Xeon E5-2697v2 12C 2.7GHz	None	12	225984	0
+Army Research Laboratory DoD Supercomputing Resource Center (ARL DSRC)	Cray Inc.	2014	Xeon E5-2698v3 16C 2.3GHz	None	16	100064	0
+DOE/SC/LBNL/NERSC	Cray Inc.	2014	Intel Xeon E5-2695v2 12C 2.4GHz	None	12	133824	0
+EPSRC/University of Edinburgh	Cray Inc.	2014	Intel Xeon E5-2697v2 12C 2.7GHz	None	12	118080	0
+ECMWF	Cray Inc.	2014	Intel Xeon E5-2697v2 12C 2.7GHz	None	12	83160	0
+ECMWF	Cray Inc.	2014	Intel Xeon E5-2697v2 12C 2.7GHz	None	12	83160	0
+KTH - Royal Institute of Technology	Cray Inc.	2014	Xeon E5-2698v3 16C 2.3GHz	None	16	53632	0
+CSC (Center for Scientific Computing)	Cray Inc.	2014	Xeon E5-2690v3 12C 2.6GHz	None	12	40608	0
+"Pawsey Supercomputing Centre, Kensington, Western Australia"	Cray Inc.	2014	Xeon E5-2690v3 12C 2.6GHz	None	12	35712	0
+HLRN at ZIB/Konrad Zuse-Zentrum Berlin	Cray Inc.	2014	Intel Xeon E5-2695v2 12C 2.4GHz	None	12	44928	0
+Air Force Research Laboratory	Cray Inc.	2014	Intel Xeon E5-2697v2 12C 2.7GHz	None	12	56112	0
+Swiss National Supercomputing Centre (CSCS)	Cray Inc.	2014	Xeon E5-2690v3 12C 2.6GHz	None	12	30240	0
+HLRN at Universitaet Hannover / RRZN	Cray Inc.	2014	Intel Xeon E5-2695v2 12C 2.4GHz	None	12	40320	0
+National Astronomical Observatory of Japan	Cray Inc.	2014	Xeon E5-2690v3 12C 2.6GHz	None	12	25440	0
+"Center for Computational Sciences, University of Tsukuba"	Cray Inc.	2014	Intel Xeon E5-2670v2  10C 2.5GHz	Intel Xeon Phi 7110P	10	55664	47824
+Navy DSRC	Cray Inc.	2014	Intel Xeon E5-2697v2 12C 2.7GHz	Intel Xeon Phi 5120D	12	38608	7564
+Navy DSRC	Cray Inc.	2014	Intel Xeon E5-2697v2 12C 2.7GHz	Xeon Phi 5120D/Nvidia K40	12	41196	10444
+Mississippi State University	Cray Inc.	2014	Intel Xeon E5-2680v2  10C 2.8GHz	Intel Xeon Phi 5110P	10	33600	28800
+Deutscher Wetterdienst	Cray Inc.	2014	Intel Xeon E5-2670v2  10C 2.5GHz	None	10	17648	0
+"Academic Center for Computing and Media Studies (ACCMS),  Kyoto University"	Cray Inc.	2014	Intel Xeon E5-2670v2  10C 2.5GHz	Intel Xeon Phi 5120D	10	33600	28800
+Korea Meteorological Administration	Cray Inc.	2014	Xeon E5-2690v3 12C 2.6GHz	None	12	10752	0
+"Academic Center for Computing and Media Studies (ACCMS),  Kyoto University"	Cray Inc.	2014	Xeon E5-2695v3 14C 2.3GHz	None	14	11648	0
+Louisiana Optical Network Initiative	Dell	2014	Intel Xeon E5-2680v2  10C 2.8GHz	NVIDIA Tesla K20x	10	23040	13440
+Louisiana State University	Dell	2014	Intel Xeon E5-2680v2  10C 2.8GHz	Intel Xeon Phi 7120P	10	45866	39406
+Tulane University	Dell	2014	Intel Xeon E5-2680v2  10C 2.8GHz	Intel Xeon Phi 7120P	10	17608	15128
+Saudi Aramco	Hewlett-Packard	2014	Intel Xeon E5-2680v2  10C 2.8GHz	None	10	40960	0
+Airbus	Hewlett-Packard	2014	Intel Xeon E5-2697v2 12C 2.7GHz	None	12	34560	0
+IT Provider (P)	Hewlett-Packard	2014	Intel Xeon E5-2697v2 12C 2.7GHz	None	12	26688	0
+IT Service Provider	Hewlett-Packard	2014	Intel Xeon E5-2680v2  10C 2.8GHz	None	10	33280	0
+Center for Biological Sequence Analysis - DTU	Hewlett-Packard	2014	Xeon E5-2683v3 14C 2GHz	None	14	15120	0
+Airbus	Hewlett-Packard	2014	Intel Xeon E5-2697v2 12C 2.7GHz	None	12	21120	0
+Aerospace Company (E)	Hewlett-Packard	2014	Intel Xeon E5-2697v2 12C 2.7GHz	None	12	21240	0
+IT Service Provider	Hewlett-Packard	2014	Xeon E5-2640 6C 2.5GHz	None	6	28608	0
+IT Service Provider	Hewlett-Packard	2014	Xeon E5-2670 8C 2.6GHz	None	8	26096	0
+Hewlett-Packard	Hewlett-Packard	2014	Opteron 6376 16C 2.3GHz	None	16	64128	0
+IT Service Provider	Hewlett-Packard	2014	Intel Xeon E5-2670v2  10C 2.5GHz	None	10	18660	0
+CSC (Center for Scientific Computing)	Hewlett-Packard	2014	Xeon E5-2690v3 12C 2.6GHz	None	12	9528	0
+Heavy Industry Company	Hewlett-Packard	2014	Intel Xeon E5-2680v2  10C 2.8GHz	None	10	16080	0
+Service Provider	Hewlett-Packard	2014	Intel Xeon E5-2690v2 10C 3GHz	None	10	17920	0
+Service Provider	Hewlett-Packard	2014	Intel Xeon E5-2690v2 10C 3GHz	None	10	17920	0
+IT Service Provider	Hewlett-Packard	2014	Xeon E5-2640 6C 2.5GHz	None	6	21432	0
+Web-Service Provider	Hewlett-Packard	2014	Intel Xeon E5-2670v2  10C 2.5GHz	None	10	20400	0
+Network Company	Hewlett-Packard	2014	Intel Xeon E5-2673v2 8C 3.3GHz	None	8	19712	0
+Network Company	Hewlett-Packard	2014	Intel Xeon E5-2673v2 8C 3.3GHz	None	8	14720	0
+Retail	Hewlett-Packard	2014	Intel Xeon E5-2670v2  10C 2.5GHz	None	10	19584	0
+Manufacturing Company	Hewlett-Packard	2014	Intel Xeon E5-2637v2 4C 3.5GHz	None	4	21016	0
+IT Provider	Hewlett-Packard	2014	Intel Xeon E5-2650v2  8C 2.6GHz	None	8	17920	0
+Mobile Network Provider	Hewlett-Packard	2014	Xeon E5-2670 8C 2.6GHz	None	8	19968	0
+National Information Infrastructure Development	Hewlett-Packard	2014	Intel Xeon E5-2650v2  8C 2.6GHz	NVIDIA Tesla K20x	8	4890	3546
+IT Service Provider	Hewlett-Packard	2014	Intel Xeon E5-2680v2  10C 2.8GHz	None	10	17440	0
+Retail	Hewlett-Packard	2014	Intel Xeon E5-2670v2  10C 2.5GHz	None	10	17600	0
+IT Service Provider	Hewlett-Packard	2014	Xeon E3-1280v3 4C 3.6GHz	None	4	16200	0
+ETH Zuerich	Hewlett-Packard	2014	Intel Xeon E5-2697v2 12C 2.7GHz	None	12	17664	0
+Geoscience (P)	Hewlett-Packard	2014	Intel Xeon E5-2680v2  10C 2.8GHz	None	10	12800	0
+Electronic Industry	Hewlett-Packard	2014	Intel Xeon E5-2690v2 10C 3GHz	None	10	14120	0
+Petroleum Company	Hewlett-Packard	2014	Intel Xeon E5-2680v2  10C 2.8GHz	None	10	14700	0
+IT Service Provider	Hewlett-Packard	2014	Xeon E5-2660 8C 2.2GHz	None	8	18816	0
+Telecommunication Company	Hewlett-Packard	2014	Xeon E5-2670 8C 2.6GHz	None	8	16288	0
+Service Provider	Hewlett-Packard	2014	Intel Xeon E5-2690v2 10C 3GHz	None	10	13440	0
+IT Services Provider 	Hewlett-Packard	2014	Intel Xeon E5-2650v2  8C 2.6GHz	None	8	15080	0
+Hewlett-Packard	Hewlett-Packard	2014	Intel Xeon E5-2680v2  10C 2.8GHz	None	10	10240	0
+Insurance Company	Hewlett-Packard	2014	Intel Xeon E5-2680v2  10C 2.8GHz	None	10	15000	0
+IT Service Provider (D)	Hewlett-Packard	2014	Intel Xeon E5-2670v2  10C 2.5GHz	None	10	15360	0
+Retail	Hewlett-Packard	2014	Intel Xeon E5-2670v2  10C 2.5GHz	None	10	15360	0
+Insurance Company	Hewlett-Packard	2014	Intel Xeon E5-2680v2  10C 2.8GHz	None	10	14760	0
+Automotive Company	Hewlett-Packard	2014	Xeon E5-2670 8C 2.6GHz	None	8	12288	0
+Petroleum Company	Hewlett-Packard	2014	Intel Xeon E5-2680v2  10C 2.8GHz	None	10	13300	0
+IT Provider (P)	Hewlett-Packard	2014	Intel Xeon E5-2680v2  10C 2.8GHz	None	10	11200	0
+Exploration & Production - Eni S.p.A.	IBM	2014	Intel Xeon E5-2680v2  10C 2.8GHz	NVIDIA Tesla K20x	10	72000	42000
+EDF R&D	IBM	2014	Xeon E5-2697v3 14C 2.6GHz	None	14	16100	0
+China Meteorological Administration	IBM	2014	POWER7  8C 3.55GHz	None	8	17920	0
+China Meteorological Administration	IBM	2014	POWER7  8C 3.55GHz	None	8	17920	0
+China Meteorological Administration	IBM	2014	POWER7  8C 3.55GHz	None	8	13664	0
+Science and Technology Facilities Council - Daresbury Laboratory	IBM	2014	Intel Xeon E5-2697v2 12C 2.7GHz	None	12	11520	0
+Government	IBM	2014	Xeon E5-2670 8C 2.6GHz	None	8	11328	0
+Government	IBM	2014	Xeon E5-2670 8C 2.6GHz	None	8	11328	0
+Texas A&M University	IBM/Lenovo	2014	Intel Xeon E5-2670v2  10C 2.5GHz	None	10	16820	0
+Electronics	IBM/Lenovo	2014	Xeon E5-2680 8C 2.7GHz	None	8	13696	0
+Technische Universitaet Darmstadt	IBM/Lenovo	2014	Xeon E5-2680v3 12C 2.5GHz	None	12	9312	0
+Universitaet Ulm	NEC	2014	Xeon E5-2630v3 8C 2.4GHz	None	8	7104	0
+Lobachevsky State University of Nizhni Novgorod	"Niagara Computers, Supermicro"	2014	Intel Xeon E5-2660v2 10C 2.2GHz	NVIDIA Tesla K20	10	5310	3510
+LvLiang Cloud Computing Center	NUDT	2014	Intel Xeon E5-2692v2 12C 2.2GHz	Intel Xeon Phi 31S1P	12	174720	153216
+High Energy Accelerator Research Organization /KEK	PEZY Computing / Exascaler Inc.	2014	Intel Xeon E5-2660v2 10C 2.2GHz	PEZY-SC	10	262784	262144
+St. Petersburg Polytechnic University	RSC Group	2014	Xeon E5-2697v3 14C 2.6GHz	None	14	19936	0
+NASA/Goddard Space Flight Center	SGI	2014	Xeon E5-2697v3 14C 2.6GHz	None	14	31248	0
+AWE	SGI	2014	Intel Xeon E5-2680v2  10C 2.8GHz	None	10	44520	0
+AWE	SGI	2014	Intel Xeon E5-2680v2  10C 2.8GHz	None	10	35640	0
+Idaho National Laboratory	SGI	2014	Xeon E5-2680v3 12C 2.5GHz	None	12	16416	0
+SENAI CIMATEC	SGI	2014	Intel Xeon E5-2690v2 10C 3GHz	None	10	17200	0
+Internet Company S	Sugon	2014	Intel Xeon E5-2420v2 6C 2.2GHz	None	6	33600	0
+Government	Sugon	2014	Intel Xeon E5-2650v2  8C 2.6GHz	None	8	25600	0
+Internet Company	Sugon	2014	Intel Xeon E5-2609V2 4C 2.5GHz	None	4	24480	0
+Tulip Trading	Supermicro/SGI	2014	Intel Xeon E5-2695v2 12C 2.4GHz	NVIDIA M2090/Intel Xeon Phi 7120P	12	265440	170976
+Moscow State University - Research Computing Center	T-Platforms	2014	Xeon E5-2697v3 14C 2.6GHz	NVIDIA Tesla K40m	14	37120	19200
+Wroclaw Centre for Networking and Supercomputing	ACTION	2015	Xeon E5-2670v3 12C 2.3GHz	None	12	22656	0
+DOE/Bettis Atomic Power Laboratory	Atipa Technology	2015	Xeon E5-2680v3 12C 2.5GHz	None	12	12768	0
+DKRZ - Deutsches Klimarechenzentrum	"Bull, Atos Group"	2015	Xeon E5-2680v3 12C 2.5GHz	None	12	37344	0
+SURFsara	"Bull, Atos Group"	2015	Xeon E5-2690v3 12C 2.6GHz	None	12	38880	0
+"TU Dresden, ZIH"	"Bull, Atos Group"	2015	Xeon E5-2680v3 12C 2.5GHz	None	12	34656	0
+Laboratório Nacional de Computação Científica	"Bull, Atos Group"	2015	Intel Xeon E5-2695v2 12C 2.4GHz	NVIDIA Tesla K40	12	10692	5940
+Laboratório Nacional de Computação Científica	"Bull, Atos Group"	2015	Intel Xeon E5-2695v2 12C 2.4GHz	Intel Xeon Phi 7120P	12	24732	6588
+Laboratório Nacional de Computação Científica	"Bull, Atos Group"	2015	Intel Xeon E5-2695v2 12C 2.4GHz	None	12	18144	0
+University of Rijeka	"Bull, Atos Group"	2015	Xeon E5-2690v3 12C 2.6GHz	None	12	6912	0
+"TU Dresden, ZIH"	"Bull, Atos Group"	2015	Xeon E5-2680v3 12C 2.5GHz	NVIDIA Tesla K80	12	3200	1664
+National Supercomputer Centre (NSC)	ClusterVision	2015	Xeon E5-2640v3 8C 2.6GHz	None	8	10256	0
+DOE/NNSA/LANL/SNL	Cray Inc.	2015	Xeon E5-2698v3 16C 2.3GHz	None	16	301056	0
+HLRS - Höchstleistungsrechenzentrum Stuttgart	Cray Inc.	2015	Xeon E5-2680v3 12C 2.5GHz	None	12	185088	0
+King Abdullah University of Science and Technology	Cray Inc.	2015	Xeon E5-2698v3 16C 2.3GHz	None	16	196608	0
+Petroleum Geo-Services	Cray Inc.	2015	Xeon E5-2698v3 16C 2.3GHz	None	16	145920	0
+Government	Cray Inc.	2015	Intel Xeon E5-2660v2 10C 2.2GHz	NVIDIA Tesla K40	10	72800	62400
+Korea Meteorological Administration	Cray Inc.	2015	Xeon E5-2690v3 12C 2.6GHz	None	12	69600	0
+Korea Meteorological Administration	Cray Inc.	2015	Xeon E5-2690v3 12C 2.6GHz	None	12	69600	0
+NOAA	Cray Inc.	2015	Xeon E5-2690v3 12C 2.6GHz	None	12	48960	0
+NOAA	Cray Inc.	2015	Xeon E5-2690v3 12C 2.6GHz	None	12	48960	0
+Navy DSRC	Cray Inc.	2015	Xeon E5-2698v3 16C 2.3GHz	Intel Xeon Phi 5120D	16	61256	10248
+Navy DSRC	Cray Inc.	2015	Xeon E5-2698v3 16C 2.3GHz	Intel Xeon Phi 5120D	16	61256	10248
+Texas Advanced Computing Center/Univ. of Texas	Cray Inc.	2015	Xeon E5-2690v3 12C 2.6GHz	None	12	30048	0
+"Supercomputer Education and Research Centre (SERC), Indian Institute of Science"	Cray Inc.	2015	Xeon E5-2680v3 12C 2.5GHz	None	12	31104	0
+Stanford Research Computing Center	Cray Inc.	2015	Intel Xeon E5-2680v2  10C 2.8GHz	NVIDIA Tesla K80	10	14820	13520
+"Indian Lattice Gauge Theory Initiative (ILGTI), Tata Institute of Fundamental Research (TIFR)"	Cray Inc.	2015	Intel Xeon E5-2680v2  10C 2.8GHz	NVIDIA Tesla K20x	10	11424	6664
+Sandia National Laboratories	Cray Inc.	2015	Xeon E5-2670 8C 2.6GHz	None	8	29584	0
+NADC	Cray Inc.	2015	Xeon E5-2690v3 12C 2.6GHz	NVIDIA Tesla K80	12	9048	8112
+Max-Planck-Gesellschaft MPI/IPP	Cray Inc.	2015	Xeon E5-2698v3 16C 2.3GHz	None	16	12800	0
+Swiss National Supercomputing Centre (CSCS)	Cray Inc.	2015	Xeon E5-2690v3 12C 2.6GHz	NVIDIA Tesla K80	12	5568	4992
+Japan Advanced Institute of Science and Technology	Cray Inc.	2015	Xeon E5-2690v3 12C 2.6GHz	None	12	8640	0
+DOE/SC/Argonne National Laboratory	Cray Inc.	2015	Xeon E5-2620v3 6C 2.4GHz	NVIDIA Tesla K80	6	4788	3276
+University Heidelberg and University Mannheim	DALCO AG Switzerland	2015	Xeon E5-2630v3 8C 2.4GHz	None	8	6720	0
+Saudi Aramco	Dell	2015	Xeon E5-2680v3 12C 2.5GHz	None	12	76032	0
+University of Florida	Dell	2015	Xeon E5-2698v3 16C 2.3GHz	None	16	29184	0
+Maryland Advanced Research Computing Center	Dell	2015	Xeon E5-2680v3 12C 2.5GHz	NVIDIA Tesla K80	12	19872	2496
+Hefei Internet Company	Dell	2015	Xeon E5-2650v3 10C 2GHz	NVIDIA Tesla K40m	10	5984	4516
+Beijing B2C Internet Service	Dell	2015	Xeon E5-2640v3 8C 2.6GHz	NVIDIA Tesla K20m	8	5440	4160
+Universitaet Regensburg	Eurotech	2015	Intel Xeon E3-1230Lv3 4C 1.8GHz	Intel Xeon Phi 7120X	4	15872	15616
+Naval Research Laboratory (NRL)	EXXACT Corporation	2015	Intel Xeon E5-2620v2 6C 2.1GHz	Nvidia Titan Black	6	7920	7200
+National Centre for Nuclear Research	"Format, Bull, Atos Group"	2015	Intel Xeon E5-2680v2  10C 2.8GHz	None	10	17960	0
+"Information Technology Center, Nagoya University"	Fujitsu	2015	SPARC64 XIfx 32C 2.2GHz	None	32	92160	0
+National Institute for Fusion Science (NIFS)	Fujitsu	2015	SPARC64 XIfx  32C 1.98GHz	None	32	82944	0
+Japan Aerospace eXploration Agency	Fujitsu	2015	SPARC64 XIfx  32C 1.98GHz	None	32	41472	0
+"Advanced Center for Computing and Communication, RIKEN"	Fujitsu	2015	SPARC64 XIfx  32C 1.98GHz	None	32	34560	0
+"Meteorological Research Institute, Japan Meteorological Agency"	Fujitsu	2015	SPARC64 XIfx  32C 1.98GHz	None	32	34560	0
+"Information Technology Center, Nagoya University"	Fujitsu	2015	Xeon E5-2697v3 14C 2.6GHz	None	14	11060	0
+King Abdulaziz University	Fujitsu	2015	Intel Xeon E5-2695v2 12C 2.4GHz	None	12	11904	0
+Government	Hewlett-Packard	2015	Xeon E5-2680v3 12C 2.5GHz	None	12	57600	0
+Cyfronet	Hewlett-Packard	2015	Xeon E5-2680v3 12C 2.5GHz	NVIDIA Tesla K40	12	55728	2160
+IT Provider (P)	Hewlett-Packard	2015	Xeon E5-2680v3 12C 2.5GHz	None	12	28800	0
+Trading Company	Hewlett-Packard	2015	Xeon E5-2640v3 8C 2.6GHz	None	8	36800	0
+Intel	Hewlett-Packard	2015	Xeon E5-2680v3 12C 2.5GHz	None	12	30672	0
+IT Provider (P)	Hewlett-Packard	2015	Xeon E5-2680v3 12C 2.5GHz	None	12	19776	0
+Hosting Services	Hewlett-Packard	2015	Intel Xeon E5-2650v2  8C 2.6GHz	None	8	51200	0
+Web Company (F)	Hewlett-Packard	2015	Xeon E5-2680v3 12C 2.5GHz	None	12	17280	0
+Hosting Services	Hewlett-Packard	2015	Intel Xeon E5-2650v2  8C 2.6GHz	None	8	44832	0
+Indian Institute of Technology Delhi	Hewlett-Packard	2015	Xeon E5-2680v3 12C 2.5GHz	NVIDIA Tesla K40m	12	22572	4830
+Energy Company	Hewlett-Packard	2015	Xeon E5-2680v3 12C 2.5GHz	None	12	14496	0
+Hosting Company	Hewlett-Packard	2015	Xeon E5-2630v3 8C 2.4GHz	None	8	20720	0
+University of Minnesota/Supercomputing Institute	Hewlett-Packard	2015	Xeon E5-2680v3 12C 2.5GHz	None	12	15360	0
+Web Company (F)	Hewlett-Packard	2015	Xeon E5-2680v3 12C 2.5GHz	None	12	13920	0
+WETA Digital	Hewlett-Packard	2015	Xeon E5-2680v3 12C 2.5GHz	None	12	19200	0
+Hosting Company	Hewlett-Packard	2015	Xeon E5-2680v3 12C 2.5GHz	None	12	23232	0
+IT Provider (P)	Hewlett-Packard	2015	Xeon E5-2680v3 12C 2.5GHz	None	12	14448	0
+Manufacturing	Hewlett-Packard	2015	Xeon E5-2667v3 8C 3.2GHz	None	8	16096	0
+Software Company	Hewlett-Packard	2015	Intel Xeon E5-2670v2  10C 2.5GHz	None	10	37800	0
+Automotive	Hewlett-Packard	2015	Intel Xeon E5-2697v2 12C 2.7GHz	None	12	28800	0
+Purdue University	Hewlett-Packard	2015	Xeon E5-2660v3 10C 2.6GHz	None	10	13200	0
+Hosting Services	Hewlett-Packard	2015	Intel Xeon E5-2650v2  8C 2.6GHz	None	8	28320	0
+"University of Tokyo/Human Genome Center, Institute of Medical Science"	Hewlett-Packard	2015	Xeon E5-2670v3 12C 2.3GHz	Intel Xeon Phi 7120P	12	12408	1464
+Energy Company	Hewlett-Packard	2015	Xeon E5-2680v3 12C 2.5GHz	NVIDIA Tesla K80	12	8360	5720
+Hosting Services	Hewlett-Packard	2015	Intel Xeon E5-2650v2  8C 2.6GHz	None	8	26624	0
+Telecommunication Company	Hewlett-Packard	2015	Xeon E5-2620v3 6C 2.4GHz	None	6	11904	0
+Hosting Services	Hewlett-Packard	2015	Intel Xeon E5-2650v2  8C 2.6GHz	None	8	24320	0
+Automative Company	Hewlett-Packard	2015	Xeon E5-2680v3 12C 2.5GHz	None	12	9600	0
+Hosting Services	Hewlett-Packard	2015	Intel Xeon E5-2650Lv2 10C 1.7GHz	None	10	33120	0
+Financial Institution (P)	Hewlett-Packard	2015	Xeon E5-2683v3 14C 2GHz	None	14	11480	0
+IT Provider (P)	Hewlett-Packard	2015	Xeon E5-2680v3 12C 2.5GHz	None	12	9120	0
+Hosting Services	Hewlett-Packard	2015	Intel Xeon E5-2650v2  8C 2.6GHz	None	8	23040	0
+Energy Company (D)	Hewlett-Packard	2015	Xeon E5-2690v3 12C 2.6GHz	None	12	13056	0
+Energy Company (D)	Hewlett-Packard	2015	Xeon E5-2690v3 12C 2.6GHz	None	12	13056	0
+Energy Company (D)	Hewlett-Packard	2015	Xeon E5-2690v3 12C 2.6GHz	None	12	13056	0
+Energy Company (D)	Hewlett-Packard	2015	Xeon E5-2690v3 12C 2.6GHz	None	12	13056	0
+Energy Company (D)	Hewlett-Packard	2015	Xeon E5-2690v3 12C 2.6GHz	None	12	13056	0
+Manufacturing	Hewlett-Packard	2015	Intel Xeon E5-2667v2 8C 3.3GHz	None	8	20992	0
+Hosting Company	Hewlett-Packard	2015	Xeon E5-2630v3 8C 2.4GHz	None	8	11536	0
+ Institute of Information and Communication Technologies at the Bulgarian Academy of Sciences	Hewlett-Packard	2015	Intel Xeon E5-2650v2  8C 2.6GHz	Intel Xeon Phi 7120P	8	20700	18300
+Software Company	Hewlett-Packard	2015	Intel Xeon E5-2670v2  10C 2.5GHz	None	10	21000	0
+Manufacturing Company	Hewlett-Packard	2015	Intel Xeon E5-2697v2 12C 2.7GHz	None	12	13152	0
+Software Company	Hewlett-Packard	2015	Intel Xeon E5-2670v2  10C 2.5GHz	None	10	20400	0
+Automative Company	Hewlett-Packard	2015	Xeon E5-2680v3 12C 2.5GHz	None	12	7296	0
+Automative Company	Hewlett-Packard	2015	Xeon E5-2680v3 12C 2.5GHz	None	12	7200	0
+Automotive Company ()	Hewlett-Packard	2015	Intel Xeon E5-2697v2 12C 2.7GHz	None	12	12288	0
+Petroleum Company	Hewlett-Packard	2015	Intel Xeon E5-2680v2  10C 2.8GHz	None	10	14000	0
+Procter and Gamble	Hewlett-Packard	2015	Xeon E5-2680v3 12C 2.5GHz	None	12	7680	0
+Hosting Services	Hewlett-Packard	2015	Intel Xeon E5-2650v2  8C 2.6GHz	None	8	29568	0
+Hosting Services	Hewlett-Packard	2015	Intel Xeon E5-2650v2  8C 2.6GHz	None	8	16128	0
+Hosting Services	Hewlett-Packard	2015	Intel Xeon E5-2680v2  10C 2.8GHz	None	10	11540	0
+Bank (J)	Hewlett-Packard	2015	Xeon E5-2643v3 6C 3.4GHz	None	6	5952	0
+Financial Institution	Hewlett-Packard	2015	Xeon E5-2683v3 14C 2GHz	None	14	10080	0
+PCSS Poznan	Huawei Technology Company Ltd.	2015	Xeon E5-2697v3 14C 2.6GHz	None	14	32984	0
+Internet Company	Huawei Technology Company Ltd.	2015	Intel Xeon E5-2650v2  8C 2.6GHz	None	8	49440	0
+CINECA	IBM/Lenovo	2015	Xeon E5-2630v3 8C 2.4GHz	Intel Xeon Phi 7120P	8	50232	44408
+Internet Service A	Inspur	2015	Intel Xeon E5-2650v2  8C 2.6GHz	NVIDIA Tesla K40	8	15640	10200
+Internet Service	Inspur	2015	Intel Xeon E5-2620v2 6C 2.1GHz	NVIDIA Tesla K40	6	10800	9000
+Internet Service	Inspur	2015	Xeon E5-2650v3 10C 2GHz	None	10	36000	0
+Internet Company	Inspur	2015	Xeon E5-2698v3 16C 2.3GHz	None	16	30720	0
+Internet Service	Inspur	2015	Xeon E5-2650v3 10C 2GHz	None	10	30000	0
+Internet Company	Inspur	2015	Xeon E5-2698v3 16C 2.3GHz	None	16	28800	0
+Internet Service	Inspur	2015	Intel Xeon E5-2620v2 6C 2.1GHz	NVIDIA Tesla K40	6	7200	6000
+Internet Service	Inspur	2015	Intel Xeon E5-2620v2 6C 2.1GHz	NVIDIA Tesla K40	6	7200	6000
+Internet Service	Inspur	2015	Intel Xeon E5-2620v2 6C 2.1GHz	NVIDIA Tesla K40	6	7200	6000
+Internet Service	Inspur	2015	Intel Xeon E5-2620v2 6C 2.1GHz	NVIDIA Tesla K40	6	7200	6000
+Internet Company	Inspur	2015	Xeon E5-2698v3 16C 2.3GHz	None	16	20480	0
+Internet Service	Inspur	2015	Xeon E5-2650v3 10C 2GHz	None	10	20000	0
+Internet Service A	Inspur	2015	Xeon E5-2620v3 6C 2.4GHz	None	6	20640	0
+Internet Service	Inspur	2015	Xeon E5-2650v3 10C 2GHz	None	10	17920	0
+IT Company	Inspur	2015	Xeon E5-2620v3 6C 2.4GHz	NVIDIA Tesla K40	6	3744	3120
+Internet Company	Lenovo	2015	Xeon E5-2680v3 12C 2.5GHz	None	12	84000	0
+Internet Company	Lenovo	2015	Xeon E5-2680v3 12C 2.5GHz	None	12	84000	0
+Internet Service	Lenovo	2015	Xeon E5-2650v3 10C 2GHz	None	10	100000	0
+Service Provider	Lenovo	2015	Xeon E5-2670v3 12C 2.3GHz	None	12	108000	0
+Service Provider	Lenovo	2015	Xeon E5-2660v3 10C 2.6GHz	None	10	90000	0
+Service Provider	Lenovo	2015	Xeon E5-2660v3 10C 2.6GHz	None	10	90000	0
+Internet Company	Lenovo	2015	Xeon E5-2650v3 10C 2GHz	None	10	70000	0
+Internet Company	Lenovo	2015	Xeon E5-2650v3 10C 2GHz	None	10	70000	0
+Internet Company	Lenovo	2015	Xeon E5-2650v3 10C 2GHz	None	10	70000	0
+Internet Service	Lenovo	2015	Xeon E5-2620v3 6C 2.4GHz	None	6	60000	0
+China Telecom	Lenovo	2015	Intel Xeon E5-2660v2 10C 2.2GHz	None	10	81000	0
+China Unicom	Lenovo	2015	Intel Xeon E5-2660v2 10C 2.2GHz	None	10	78000	0
+China Mobile	Lenovo	2015	Intel Xeon E5-2660v2 10C 2.2GHz	None	10	75000	0
+China Mobile	Lenovo	2015	Intel Xeon E5-2660v2 10C 2.2GHz	None	10	75000	0
+China Mobile	Lenovo	2015	Intel Xeon E5-2660v2 10C 2.2GHz	None	10	75000	0
+Service Provider	Lenovo	2015	Xeon E5-2620v3 6C 2.4GHz	None	6	54000	0
+Service Provider	Lenovo	2015	Xeon E5-2620v3 6C 2.4GHz	None	6	54000	0
+UCWeb	Lenovo	2015	Xeon E5-2620v3 6C 2.4GHz	None	6	42000	0
+Internet Service	Lenovo	2015	Intel Xeon E5-2637v2 4C 3.5GHz	None	4	40000	0
+Internet Service	Lenovo	2015	Intel Xeon E5-2637v2 4C 3.5GHz	None	4	40000	0
+University of Southern Denmark	Lenovo	2015	Xeon E5-2680v3 12C 2.5GHz	NVIDIA Tesla K40	12	11568	2160
+China National Petroleum Corporation	Lenovo	2015	Xeon E7-4820V2 8C 2GHz	None	8	28800	0
+China National Petroleum Corporation	Lenovo	2015	Xeon E7-4820V2 8C 2GHz	None	8	28800	0
+Internet Service	Lenovo	2015	Intel Xeon E5-2620v2 6C 2.1GHz	None	6	60000	0
+Peking Univeristy	Lenovo	2015	Intel Xeon E5-2670v2  10C 2.5GHz	None	10	14040	0
+Leibniz Rechenzentrum	Lenovo/IBM	2015	Xeon E5-2697v3 14C 2.6GHz	None	14	86016	0
+Leibniz Rechenzentrum	Lenovo/IBM	2015	Xeon E5-2697v3 14C 2.6GHz	None	14	11200	0
+Potsdam Institute for Climate Impact Research	Lenovo/IBM	2015	Xeon E5-2667v3 8C 3.2GHz	None	8	5040	0
+Academic Computer Centre in Gdansk	Megatel/Action	2015	Xeon E5-2670v3 12C 2.3GHz	None	12	17280	0
+University Heidelberg and University Mannheim	MEGWARE	2015	Xeon E5-2630v3 8C 2.4GHz	None	8	9792	0
+University Heidelberg and University Mannheim	MEGWARE	2015	Xeon E5-2630v3 8C 2.4GHz	None	8	7552	0
+University of Wyoming - Advanced Research Computing Center	Penguin Computing	2015	Intel Xeon E5-2680v2  10C 2.8GHz	NVIDIA Tesla K20x	10	4560	3360
+Institute of Physical and Chemical Research (RIKEN)	PEZY Computing / Exascaler Inc.	2015	Xeon E5-2618Lv3  8C 2.3GHz	PEZY-SC	8	1181952	1179648
+ERDC DSRC	SGI	2015	Xeon E5-2699v3 18C 2.3GHz	None	18	124200	0
+Air Force Research Laboratory	SGI	2015	Xeon E5-2699v3 18C 2.3GHz	NVIDIA Tesla K40/Intel Xeon Phi 7120P	18	152692	27056
+Japan Atomic Energy Agency (JAEA)	SGI	2015	Xeon E5-2680v3 12C 2.5GHz	None	12	60240	0
+"IT4Innovations National Supercomputing Center, VSB-Technical University of Ostrava"	SGI	2015	Xeon E5-2680v3 12C 2.5GHz	Intel Xeon Phi 7120P	12	76896	52704
+University of Tokyo/Institute for Solid State Physics	SGI	2015	Xeon E5-2680v3 12C 2.5GHz	None	12	38016	0
+University of Tokyo/Institute for Solid State Physics	SGI	2015	Xeon E5-2680v3 12C 2.5GHz	NVIDIA Tesla K40	12	15552	8640
+National Institute for Materials Science	SGI	2015	Xeon E5-2680v3 12C 2.5GHz	None	12	25056	0
+NASA/Goddard Space Flight Center	SGI	2015	Xeon E5-2697v3 14C 2.6GHz	None	14	17136	0
+NASA/Goddard Space Flight Center	SGI	2015	Xeon E5-2697v3 14C 2.6GHz	None	14	17136	0
+SGI	SGI	2015	Xeon E5-2690v3 12C 2.6GHz	None	12	13824	0
+Honeywell Aerospace	SGI	2015	Xeon E5-2680v3 12C 2.5GHz	None	12	12096	0
+The Institute of Statistical Mathematics	SGI	2015	Intel Xeon E5-2697v2 12C 2.7GHz	Intel Xeon Phi 5120D	12	18624	5760
+CINVESTAV	SGI	2015	Xeon E5-2697v3 14C 2.6GHz	None	14	8820	0
+"LASG/Institute of Atmospheric Physics, CAS"	Sugon	2015	Xeon E5-2680v3 12C 2.5GHz	None	12	24912	0
+Internet Company	Sugon	2015	Intel Xeon E5-2450v2 8C 2.5GHz	None	8	52800	0
+Internet Company B	Sugon	2015	Intel Xeon E5-2620v2 6C 2.1GHz	None	6	54000	0
+Government	Sugon	2015	Intel Xeon E5-2630v2 6C 2.6GHz	None	6	43200	0
+Internet Company M	Sugon	2015	Intel Xeon E5-2450v2 8C 2.5GHz	None	8	44800	0
+Internet Company	Sugon	2015	Intel Xeon E5-2450v2 8C 2.5GHz	None	8	42240	0
+Internet Company	Sugon	2015	Intel Xeon E5-2620v2 6C 2.1GHz	None	6	50400	0
+Government	Sugon	2015	Intel Xeon E5-2630v2 6C 2.6GHz	None	6	39600	0
+Government	Sugon	2015	Xeon E5-2640v3 8C 2.6GHz	NVIDIA Tesla K20	8	10200	7800
+Internet Company	Sugon	2015	Intel Xeon E5-2620v2 6C 2.1GHz	None	6	47040	0
+Electricity Company	Sugon	2015	Opteron 6344 12C 2.6GHz	None	12	252000	0
+Government	Sugon	2015	Intel Xeon E5-2630v2 6C 2.6GHz	None	6	36000	0
+Telecommunications Company	Sugon	2015	Intel Xeon E5-2620v2 6C 2.1GHz	None	6	153000	0
+Internet Company	Sugon	2015	Intel Xeon E5-2620v2 6C 2.1GHz	None	6	43200	0
+Internet Company	Sugon	2015	Intel Xeon E5-2620v2 6C 2.1GHz	None	6	43200	0
+Internet Company B	Sugon	2015	Intel Xeon E5-2609V2 4C 2.5GHz	None	4	120000	0
+Internet Company W	Sugon	2015	Intel Xeon E5-2609V2 4C 2.5GHz	None	4	120000	0
+Electricity Company	Sugon	2015	Xeon E7-4830V2 10C 2.2GHz	None	10	40320	0
+Electricity Company	Sugon	2015	Intel Xeon E5-2640v2 8C 2GHz	None	8	43200	0
+Internet Company	Sugon	2015	Intel Xeon E5-2609V2 4C 2.5GHz	None	4	110000	0
+Telecommunications Company	Sugon	2015	Intel Xeon E5-2620v2 6C 2.1GHz	None	6	134400	0
+Government	Sugon	2015	Xeon E7-4830V2 10C 2.2GHz	None	10	132000	0
+Government	Sugon	2015	Intel Xeon E5-2630v2 6C 2.6GHz	None	6	32400	0
+Internet Company	Sugon	2015	Intel Xeon E5-2420v2 6C 2.2GHz	None	6	43200	0
+Telecommunications Company	Sugon	2015	Intel Xeon E5-2620v2 6C 2.1GHz	None	6	135000	0
+Government	Sugon	2015	Intel Xeon E5-2630v2 6C 2.6GHz	None	6	31680	0
+"Computer Network Information Center, Chinese Academy of Science"	Sugon	2015	Xeon E5-2680v3 12C 2.5GHz	Intel Xeon Phi 5110P	12	81360	6620
+Electricity Company	Sugon	2015	Opteron 6344 12C 2.6GHz	None	12	216000	0
+Internet Company B	Sugon	2015	Intel Xeon E5-2609V2 4C 2.5GHz	None	4	108000	0
+Internet Company S	Sugon	2015	Intel Xeon E5-2630v2 6C 2.6GHz	None	6	105000	0
+Internet Company B	Sugon	2015	Intel Xeon E5-2620v2 6C 2.1GHz	None	6	126000	0
+Internet Company	Sugon	2015	Intel Xeon E5-2630v2 6C 2.6GHz	None	6	99000	0
+Internet Company	Sugon	2015	Intel Xeon E5-2620v2 6C 2.1GHz	NVIDIA Tesla K40	6	6912	5760
+State Grid Corp	Sugon	2015	Xeon E7-4830 8C 2.13GHz	None	8	38400	0
+China Mobile	Sugon	2015	Opteron 6376 16C 2.3GHz	None	16	67840	0
+Agricultural Bank of China (ABC) Shandong	Sugon	2015	Opteron 6348 12C 2.8GHz	None	12	56160	0
+"Institute of Modern Physics (IMP), Chinese Academy of Sciences"	Sugon	2015	Xeon E5-2640v3 8C 2.6GHz	NVIDIA Tesla K80	8	6944	6448
+Shanghai Supercomputer Center	Sugon	2015	Xeon E5-2680v3 12C 2.5GHz	None	12	9960	0
+Internet Company	Sugon	2015	Intel Xeon E5-2620v2 6C 2.1GHz	NVIDIA Tesla K20	6	6144	4992
+Internet Company	Sugon	2015	Xeon E5-2407 4C 2.2GHz	None	4	28800	0
+China Mobile	Sugon	2015	Opteron 6344 12C 2.6GHz	None	12	43200	0
+Dalian University of Technology	Sugon	2015	Xeon E5-2660v3 10C 2.6GHz	NVIDIA Tesla K40	10	6400	960
+Northeastern University	Sugon	2015	Intel Xeon E5-2670v2  10C 2.5GHz	None	10	12000	0
+Okinawa Institute of Science and Technology	Supermicro	2015	Xeon E5-2680v3 12C 2.5GHz	Intel Xeon Phi 7120P	12	10512	732
+"National Research Centre ""Kurchatov Institute"""	SuperMicro/Mellanox	2015	Xeon E5-2680v3 12C 2.5GHz	NVIDIA Tesla K80	12	11082	1794
+ Max-Planck Institute for biophysical Chemistry	sysGen	2015	Intel Xeon E5-2620v2 6C 2.1GHz	NVIDIA Tesla K20	6	4080	3120
+Forschungszentrum Juelich (FZJ)	T-Platforms	2015	Xeon E5-2680v3 12C 2.5GHz	NVIDIA Tesla K80	12	49476	4260
